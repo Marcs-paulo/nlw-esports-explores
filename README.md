@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next level Week da Rocketseet
 
-[Clique aqui para acessar](https://marcspaulo9.github.io/nlw-esports-explores/)
+[Clique aqui para acessar](https://Marcs-Paulo.github.io/nlw-esports-explores/)
 
 ## 🎮Tecnologias🎮
 
@@ -18,4 +18,4 @@ Projeto construido do evento Next level Week da Rocketseet
 
 ## 📲 CONTATO
 
-marcos.joaquim@aluno.ce.gov.br
+mp.dantasjoaquim0102@gmail.com
