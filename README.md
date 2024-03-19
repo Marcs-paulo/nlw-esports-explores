@@ -6,7 +6,7 @@
 
 Projeto construido do evento Next level Week da Rocketseet
 
-[Clique aqui para acessar](https://Marcs-Paulo.github.io/nlw-esports-explora/)
+[Clique aqui para acessar](https://Marcs-Paulo.github.io/nlw-esports-explores/)
 
 ## 🎮Tecnologias🎮
 
